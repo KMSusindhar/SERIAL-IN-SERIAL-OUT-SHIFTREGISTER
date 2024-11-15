@@ -53,9 +53,10 @@ end
 endmodule
 
 Developed by: SUSINDHAR K M 
+
 RegisterNumber: 212223040218
 
-*/
+
 
 **RTL LOGIC FOR SISO Shift Register**
 ![Screenshot 2024-11-15 092856](https://github.com/user-attachments/assets/750190d8-edae-453a-a40d-aa3ac7e37486)
@@ -64,4 +65,5 @@ RegisterNumber: 212223040218
 ![Screenshot 2024-11-15 090823](https://github.com/user-attachments/assets/165b79f4-9ace-458a-b2e4-bfaa4363d739)
 
 **RESULTS**
+
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
